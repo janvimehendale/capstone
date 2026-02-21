@@ -1,0 +1,11 @@
+Autism dataset
+
+https://catalog.data.gov/dataset/?q=&sort=none&tags=__&res_format=xsl&bureauCode=009%3A20
+
+https://catalog.data.gov/dataset/autism-prevalence-studies    -----csv 
+
+https://healthdata.gov/CDC/autism-prevalence-studies/ggvy-6bjb/about_data
+
+https://www.cdc.gov/autism/data-research/autism-data-visualization-tool.html
+https://www.cdc.gov/autism/addm-network/index.html
+https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd#hts-1
